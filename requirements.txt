@@ -2,3 +2,7 @@ flask
 onnxruntime
 transformers
 torch
+black 
+pytest
+pytest-cov
+pylint
